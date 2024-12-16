@@ -23,6 +23,6 @@ public class Capitan_small_letter_digit{
         {
             System.out.println("IS DIGIT");
         }
-        
+        input.close();       
     }
 }
